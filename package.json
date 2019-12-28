@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Movie API with Graphql",
   "main": "index.js",
-  "repository": "https://github.com/nomadcoders/movieql",
-  "author": "Nicolas Serrano Arevalo<nico@nomadcoders.co>",
+  "repository": "https://github.com/rednjzz/movieql",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
